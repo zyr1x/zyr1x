@@ -1,7 +1,7 @@
 <h1 align="center">Lewis Carrol</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?zyr1x&show_icons=true&theme=tokyonight&count_private=true&hide=prs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zyr1x&show_icons=true&theme=tokyonight&count_private=true&hide=prs"/>
 </p>
 
 ---
