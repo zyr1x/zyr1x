@@ -46,15 +46,9 @@
 
 ---
 
-### 📊 Stats
-
+### 🐍 Contributions
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zyr1x&show_icons=true&theme=tokyonight&count_private=true&hide=prs&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyr1x&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyr1x&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/zyr1x/zyr1x/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
