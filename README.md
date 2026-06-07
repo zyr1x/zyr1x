@@ -1,4 +1,6 @@
-<h1 align="center">Lewis Carrol</h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Lewis%20Carrol&text2=%F0%9F%92%BBBackend%20Developer&width=800&height=200"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Backend+Developer;JVM+Enjoyer;Linux+%26+Fedora+User" alt="Typing SVG" />
